@@ -1,0 +1,14 @@
+F:\IDAT\ProyectoIntegrador2\SolucionBlueMoon\SolucionBlueMoon\obj\Debug\SolucionBlueMoon.LoginForm.resources
+F:\IDAT\ProyectoIntegrador2\SolucionBlueMoon\SolucionBlueMoon\obj\Debug\SolucionBlueMoon.Properties.Resources.resources
+F:\IDAT\ProyectoIntegrador2\SolucionBlueMoon\SolucionBlueMoon\obj\Debug\SolucionBlueMoon.csproj.GenerateResource.cache
+F:\IDAT\ProyectoIntegrador2\SolucionBlueMoon\SolucionBlueMoon\obj\Debug\SolucionBlueMoon.csproj.CoreCompileInputs.cache
+F:\IDAT\ProyectoIntegrador2\SolucionBlueMoon\SolucionBlueMoon\bin\Debug\SolucionBlueMoon.exe.config
+F:\IDAT\ProyectoIntegrador2\SolucionBlueMoon\SolucionBlueMoon\bin\Debug\SolucionBlueMoon.exe
+F:\IDAT\ProyectoIntegrador2\SolucionBlueMoon\SolucionBlueMoon\bin\Debug\SolucionBlueMoon.pdb
+F:\IDAT\ProyectoIntegrador2\SolucionBlueMoon\SolucionBlueMoon\bin\Debug\MaterialSkin.dll
+F:\IDAT\ProyectoIntegrador2\SolucionBlueMoon\SolucionBlueMoon\obj\Debug\SolucionBlueMoon.csproj.CopyComplete
+F:\IDAT\ProyectoIntegrador2\SolucionBlueMoon\SolucionBlueMoon\obj\Debug\SolucionBlueMoon.exe
+F:\IDAT\ProyectoIntegrador2\SolucionBlueMoon\SolucionBlueMoon\obj\Debug\SolucionBlueMoon.pdb
+F:\IDAT\ProyectoIntegrador2\SolucionBlueMoon\SolucionBlueMoon\bin\Debug\Zeroit.Framework.LollipopControls.dll
+F:\IDAT\ProyectoIntegrador2\SolucionBlueMoon\SolucionBlueMoon\obj\Debug\SolucionBlueMoon.csprojAssemblyReference.cache
+F:\IDAT\ProyectoIntegrador2\SolucionBlueMoon\SolucionBlueMoon\obj\Debug\SolucionBlueMoon.FormAdmin.resources
